@@ -10,6 +10,8 @@ labels:
   - Self-Improvement
 ---
 
+<img class="img-fluid" src="../img/creative-software/krita_galaad_g.png">
+
 ## Why to Make Creative Software
 
 At its core, engineering is a creative endeavor. While most artists use a brush, software engineers use a keyboard. Artists use pointillism, watercolor, or hatching as a basis for their works, while we use OOP, functional programming, or data-oriented design. Personally, I’ve never been much of an artist, but I enjoy art in all forms, from animation to drawing to sound design. Consequently, I aim to build my engineering career in creative software development.
