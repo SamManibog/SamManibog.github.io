@@ -11,6 +11,8 @@ labels:
   - Static Typing
 ---
 
+<img class="img-fluid" src="../img/ts-logo-256.png">
+
 ## On Dynamic Typing
 
 Dynamic typing sucks. I know that this take may not be the most popular, but if there were one computer science hill to die on, it would be that. Dynamic typing is just too loose. What do you mean, I can pass an object in place of a number? That shouldn’t be allowed! I need structure and clarity in my code, but dynamic typing creates the possibility for so many bugs that aren’t caught at compile time. Fortunately, the solution is simple: just use a statically typed language.
