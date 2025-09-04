@@ -12,3 +12,7 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
+
+gem "csv", "~> 3.3"
+
+gem "base64", "~> 0.3.0"
