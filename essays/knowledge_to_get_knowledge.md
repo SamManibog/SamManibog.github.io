@@ -29,6 +29,8 @@ Title: *'.' or '->' C struct accessor [duplicate]*
 
 *What is the difference between `.` and `->` when accessing data in a C structure? I couldn't find any difference in my several attempts. Both provide me access to the desired data.*
 
+<hr>
+
 While this question is certainly relevant to C programming and its answer is necessary to understand C’s syntax, it is not deserving of anyone’s time or response. The first problem with this question is that it doesn’t require a person to answer it. A quick Google search will tell you the answer. Even worse, this question has been flagged as a duplicate. A search within the same forum would have led to the answer they sought.
 
 The second problem with this question is the lack of detail. The user states they “couldn’t find any difference in my several attempts”, but does not describe the attempts being referenced. Did they attempt to compile and/or run code? Did they attempt to search for the answer online and not find anything? (Doubtful.) Did they review examples and not understand the difference? Whatever the case, including this information would certainly help those responding to the question.
@@ -44,6 +46,8 @@ Title: *Why does my code does not work even though it is correct?*
 *This is the part of my code. It has 0 errors and 0 warnings but it does not work. It is completely correct. But it does not work.*
 
 [The user provides a snippet of their C code including a struct and a main function].
+
+<hr>
 
 Problem number one is obvious from the title: a lack of humility. The attitude with which you pose the question is just as important as the content of the question itself. By including the words “even though it is correct,” this user has invited a host of understandably sassy comments that contribute nothing to his search for an answer. This problem is only worsened by the fact that multiple responders found that “0 errors and 0 warnings” was not accurate. Even if you are frustrated by a problem, do not let emotions mar your question.
 
@@ -66,6 +70,8 @@ Title: *Why is processing a sorted array faster than processing an unsorted arra
 
 *My first thought was that sorting brings the data into the cache, but that's silly because the array was just generated. What is going on? Why is processing a sorted array faster than processing an unsorted array? The code is summing up some independent terms, so the order should not matter.*
 
+<hr>
+
 The first comparison to make with this question and the others is its length. You may think that a short question is faster to read and therefore easier to answer, but that is not the case. Good questions are concise, not short. They include all necessary details while excluding unnecessary ones. Be sure to state the facts, and don’t cloud the question with filler.
 
 Another thing that sets this question apart is that the user has clearly done their homework. They reference and provide the results from multiple tests that they performed within the question to provide context. This means that the question is contributing to the discussion rather than simply initiating it.
@@ -74,6 +80,8 @@ Furthermore, this question can’t be solved by a Google search. Rather than ask
 
 This question is written very well, and it shows. Besides the high rating (which is meaningless in the grand scheme of things), it succeeds in creating a discussion where understanding can be reached. When you read through the answers and comments you are met with in-depth essays, details, and clarifications, not only because the question is clear, but because its author presented it as a question worthy of answering.
 
+
 <hr>
+
 
 Whenever you ask questions, simply posing them is not enough. You must do your due diligence to attempt to find an answer yourself, and only then should you begin to draft a question. When you write a question, your goal should not be limited to arriving at a cut-and-dried solution, but to create a meaningful discussion about an issue and its possible solutions.
